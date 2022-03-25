@@ -1,0 +1,29 @@
+Lista de requisitos - Sistema de Gestão de estacionamento BrainStorm
+Data: 25/3/22
+
+Requisitos:
+- Sinalização de Vagas livres e ocupadas
+- Registro de Avarias na entrada e saída
+- Cadastro de Clientes
+- Registro de entrada de veiculo
+- Configuaração de perfis de acesso ao sistema
+- Controle de preço por tipo de veiculo , dia e horarío
+- terminal de auto atendimento para pagamento
+- Abertura e fechamento de cancela comandado pelo sistema (sensor de presença de veículo sob a cancela)
+- Calendario de promoções
+- Relatorio de pagamento
+- Informação em tempo real
+- Controle de rotativos, convênios e mensalistas
+- Relatório analìtico e sintètico de estatísttica de permanência
+- Saída controlada por código de barra
+- Backup automático de dados 
+- Verificação de vagas livres por app mobile
+- Controle de execução e cobrança por serviços adicionais (lava-jato)
+- Envios de recibos ao cliente por e-mail
+- Detecção e registro de placas
+- Emissão de vouchers de desconto
+- Acesso remoto ao sistema
+- Controle de pagamento com multiplos meios (PIX,Crédito,Débito,Espécie)
+- Cadastramento automático de placa,modelo,marca,tamanho e cor do veículo por reconhecimento ótico
+- Cadastramento de política de pontuação para descontos
+- 
