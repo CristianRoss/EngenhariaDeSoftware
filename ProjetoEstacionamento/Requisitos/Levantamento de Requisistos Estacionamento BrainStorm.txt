@@ -26,4 +26,4 @@ Requisitos:
 - Controle de pagamento com multiplos meios (PIX,Crédito,Débito,Espécie)
 - Cadastramento automático de placa,modelo,marca,tamanho e cor do veículo por reconhecimento ótico
 - Cadastramento de política de pontuação para descontos
-- 
+- Emissão do ticket de estacionamento
